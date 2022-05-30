@@ -151,6 +151,6 @@ namespace assignment {
 
     // обновляем поле (перемещаем данные из new_buckets в buckets_)
     buckets_ = std::move(new_buckets);
-  }ь
+  }
 
 }  // namespace assignment
